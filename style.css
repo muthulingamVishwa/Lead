@@ -93,3 +93,10 @@ body {
  .hidden {
             display: none;
         }
+
+.outy{
+    font-weight: bold;
+    color:  #ccc;
+    
+}
+
