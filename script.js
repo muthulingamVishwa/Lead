@@ -13,8 +13,7 @@ document.querySelector('input[name="submit"]').classList.remove('hidden');
 
 }
  function submitForm(event) {
-event.preventDefault(); 
-            
+
             const firstName = document.getElementById('first_name').value;
             localStorage.setItem('firstName', firstName); 
             window.location.href = 'thank.html';
