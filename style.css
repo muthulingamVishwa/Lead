@@ -89,11 +89,7 @@ body {
     font-size: 18px;
     color: #333;
 }
-#first_name {
-    font-weight: bold;
-    color:  #ccc;
-    
-}
+
  .hidden {
             display: none;
         }
